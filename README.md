@@ -1,11 +1,30 @@
+![](./images/logo.png)
+
 ## Welcome to Play my ganme
 
-You can use the [editor on GitHub](https://github.com/TindleWei/BlackBallSite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Bouncy Balls 3D is the greatest fun Brick Breaker game in the world.   
+Free 3D puzzle game and the champion of time killer.  
+Endless mode and Simple controls.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Detail
 
+Bouncy Balls 3D is the greatest fun Brick Breaker game in the world. Most addictive!
+Hold the screen to aim, swipe the ball to the brick and break all the bricks easily!
 
+FEATURES
+- 3D game
+- Free to play
+- Endless gameplay
+- Simple controls
+
+HOW TO PLAY
+- Swipe to shoot balls to break the bricks.
+- When ball hits the brick, durability is reduced. When durability reduce to 0, brick breaks.
+- Get the white circle to increase the number of balls.
+- When the bricks reach the bottom line, game is over.
+- Challenge to make yout high score!
 
 ### Support or Contact
 
-Having problem with this game? Check out our [documentation]() or [contact support tindle163@163.com]() and we’ll help you sort it out.
+Having problem with this game? 
+Contact me [tindle163@163.com]() and I’ll help you sort it out.
