@@ -1,6 +1,6 @@
 ![](./images/logo.png)
 
-## Welcome to Play my ganme
+## Welcome to Play my game
 
 Bouncy Balls 3D is the greatest fun Brick Breaker game in the world.   
 Free 3D puzzle game and the champion of time killer.  
