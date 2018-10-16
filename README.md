@@ -1,5 +1,5 @@
-<div class="slick-slide" >
-<img src="https://lionstudios.cc/wp-content/uploads/2018/05/hero-bg-weave-the-line-full.jpg" alt="Weave the Line" title="" />
+<div class="1" >
+<img src="https://lionstudios.cc/wp-content/uploads/2018/05/hero-bg-weave-the-line-full.jpg" alt="Weave the Line" title="Haha" />
 </div>
 
 
