@@ -1,15 +1,19 @@
 <div class="1" >
-<img src="https://lionstudios.cc/wp-content/uploads/2018/05/hero-bg-weave-the-line-full.jpg" alt="Weave the Line" title="" />
-<h3>Weave the Line</h3>
-<a href="https://www.jamsadr.com/eu-us-privacy-shield">https://www.jamsadr.com/eu-us-privacy-shield</a> 
+<img src="https://lionstudios.cc/wp-content/uploads/2018/05/LionStudios_Website_HOME_CarouselMocks_@2x_BigBigBaller_New.jpg" alt="Big Big Baller" title="" />
+<h3>Big Big Baller</h3>
+<p>iOS Download<a href="https://www.jamsadr.com/eu-us-privacy-shield">https://www.jamsadr.com/eu-us-privacy-shield</a></p>
 </div>
-
-
+<br/>
+<br/>
+<br/>
 <div class="2" >
 <img src="./images/logo.png" alt="Weave the Line" title="" />
 <h3>Weave the Line</h3>
 <a href="https://www.jamsadr.com/eu-us-privacy-shield">https://www.jamsadr.com/eu-us-privacy-shield</a> 
 </div>
+<br/>
+<br/>
+<br/>
 
 ![](./images/logo.png)
 
