@@ -1,3 +1,8 @@
+<div class="slick-slide" >
+<img src="https://lionstudios.cc/wp-content/uploads/2018/05/hero-bg-weave-the-line-full.jpg" alt="Weave the Line" title="" />
+</div>
+
+
 ![](./images/logo.png)
 
 ## Welcome to Play my game
@@ -30,4 +35,6 @@ Having problem with this game?
 Contact me [tindle163@163.com]() and I’ll help you sort it out.
 
 
-[Link to another page](./privacy.html).
+[Privacy Policy](./privacy.html).
+
+[Reference Theme](https://github.com/pages-themes/cayman).
