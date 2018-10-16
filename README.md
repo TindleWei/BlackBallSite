@@ -1,7 +1,15 @@
 <div class="1" >
-<img src="https://lionstudios.cc/wp-content/uploads/2018/05/hero-bg-weave-the-line-full.jpg" alt="Weave the Line" title="Haha" />
+<img src="https://lionstudios.cc/wp-content/uploads/2018/05/hero-bg-weave-the-line-full.jpg" alt="Weave the Line" title="" />
+<h3>Weave the Line</h3>
+<a href="https://www.jamsadr.com/eu-us-privacy-shield">https://www.jamsadr.com/eu-us-privacy-shield</a> 
 </div>
 
+
+<div class="2" >
+<img src="./images/logo.png" alt="Weave the Line" title="" />
+<h3>Weave the Line</h3>
+<a href="https://www.jamsadr.com/eu-us-privacy-shield">https://www.jamsadr.com/eu-us-privacy-shield</a> 
+</div>
 
 ![](./images/logo.png)
 
