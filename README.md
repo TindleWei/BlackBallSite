@@ -28,3 +28,6 @@ HOW TO PLAY
 
 Having problem with this game? 
 Contact me [tindle163@163.com]() and I’ll help you sort it out.
+
+
+[Link to another page](./privacy.html).
