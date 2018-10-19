@@ -7,15 +7,19 @@
 <br/>
 <br/>
 <div class="2" >
-<img src="./images/logo.png" alt="Weave the Line" title="" />
-<h3>Weave the Line</h3>
-<a href="https://www.jamsadr.com/eu-us-privacy-shield">https://www.jamsadr.com/eu-us-privacy-shield</a> 
+<img src="./images/logo_wind_ride.jpeg" width=＂300px＂ height=＂300px＂ alt="Weave the Line" title="" />
+<h4>Wind Ride</h4>
+<a href="iOS地址"></a> 
 </div>
 <br/>
 <br/>
 <br/>
+<div class="2" >
+<img src="./images/logo_punchio.jpeg" width=＂300px＂ height=＂300px＂ alt="Weave the Line" title="" />
+<h4>Wind Ride</h4>
+<a href="iOS地址"></a> 
+</div>
 
-![](./images/logo.png)
 
 ## Welcome to Play my game
 
