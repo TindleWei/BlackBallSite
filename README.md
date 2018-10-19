@@ -1,13 +1,12 @@
 <div class="1" >
 <img src="https://lionstudios.cc/wp-content/uploads/2018/05/LionStudios_Website_HOME_CarouselMocks_@2x_BigBigBaller_New.jpg" alt="Big Big Baller" title="" />
 <h3>Big Big Baller</h3>
-<p>iOS Download<a href="https://www.jamsadr.com/eu-us-privacy-shield">https://www.jamsadr.com/eu-us-privacy-shield</a></p>
 </div>
 <br/>
 <br/>
 <br/>
 <div class="2" >
-<img src="./images/logo_wind_ride.jpeg" width=＂300px＂ height=＂300px＂ alt="Weave the Line" title="" />
+<img src="./images/logo_wind_ride.jpeg" width="300px" height="300px" alt="Weave the Line" title="" />
 <h4>Wind Ride</h4>
 <a href="iOS地址"></a> 
 </div>
@@ -15,7 +14,7 @@
 <br/>
 <br/>
 <div class="2" >
-<img src="./images/logo_punchio.jpeg" width=＂300px＂ height=＂300px＂ alt="Weave the Line" title="" />
+<img src="./images/logo_punchio.jpeg" width="300px" height="300px" alt="Weave the Line" title="" />
 <h4>Wind Ride</h4>
 <a href="iOS地址"></a> 
 </div>
