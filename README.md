@@ -22,6 +22,13 @@
 </div>
 <br/>
 <div class="5" >
+<img src="./images/logo_circle_pool.jpeg" width="300px" height="300px" alt="Weave the Line" title="" />
+<h3>Circle Pool!</h3>
+<a href="iOS Donwload">iOS Donwload</a> 
+</div>
+
+<br/>
+<div class="5" >
 <img src="./images/logo_viking_climber.jpeg" width="300px" height="300px" alt="Weave the Line" title="" />
 <h3>Viking Climber</h3>
 <a href="iOS Donwload">iOS Donwload</a> 
@@ -46,7 +53,7 @@
 </div>
 
 <div class="9" >
-<img src="./images/logo_bouncy_balls.jpeg" width="300px" height="300px" alt="Weave the Line" title="" />
+<img src="./images/logo_bouncy_balls.png" width="300px" height="300px" alt="Weave the Line" title="" />
 <h3>Bouncy Balls</h3>
 <a href="iOS Donwload">iOS Donwload</a> 
 </div>
